@@ -8,6 +8,7 @@ theme = "cactus"
   mainSection = "posts"
   mainSectionTitle = "Posts"
   showAllPostsOnHomePage = true
+  showGallery = false
 
 [markup]
   [markup.highlight]
